@@ -12,7 +12,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en-PT">
       <body
         className="bg-zinc-950 text-zinc-50"
       >
